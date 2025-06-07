@@ -1,7 +1,7 @@
 
 <h1>Olá, Eu sou Nilson Vilela </h1>
 
-I'm a **Machine Learning Engineer** working at [Peak](https://peak.ai/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+Eu sou desenvolvedor full stack.
 
 ## Skill Set :muscle:
 
