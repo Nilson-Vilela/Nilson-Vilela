@@ -1,7 +1,7 @@
 
-<h1>Olá, Eu sou Nilson Vilela </h1>
+<h1>Nilson Vilela </h1>
 
-Eu sou desenvolvedor full stack.
+Desenvolvedor fullstack.
 
 ## Skill Set :muscle:
 
@@ -44,7 +44,6 @@ These are some of the major technologies that I use or have worked on in the pas
 ## Let's Connect :handshake:
 
 <a href="www.linkedin.com/in/nilson-vilela-2a84b5204"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
-|--|--|
 
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
