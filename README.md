@@ -1,5 +1,5 @@
 
-<h1>Olá, Eu sou Nilson Vilela <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Olá, Eu sou Nilson Vilela </h1>
 
 I'm a **Machine Learning Engineer** working at [Peak](https://peak.ai/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
@@ -43,7 +43,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+<a href="www.linkedin.com/in/nilson-vilela-2a84b5204"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 |--|--|
 
 ### Here is a random meme for you, to make your day better
