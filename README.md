@@ -11,7 +11,7 @@ Desenvolvedor Full Stack.
   <a href="www.linkedin.com/in/nilson-vilela-2a84b5204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-## Linguagens e Tecnologias de Trabalho e Estudo: 💻
+## Linguagens e Tecnologias de Trabalho e Estudo 💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Nilson-Vsc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />   
   <img align="center" alt="Nilson-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
