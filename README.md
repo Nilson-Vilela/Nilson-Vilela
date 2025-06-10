@@ -1,6 +1,6 @@
 ## Nilson Vilela 🧔
 <div> 
-Desenvolvedor Full Stack.
+Desenvolvedor Frontend
 </div>
 
 ## Redes Sociais 🇧🇷
